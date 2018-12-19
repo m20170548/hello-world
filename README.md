@@ -2,3 +2,4 @@
 learning how to use git-hub
 
 This is Susan, learning git-hub for the first time.
+making some changes
